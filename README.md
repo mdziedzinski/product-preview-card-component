@@ -9,10 +9,10 @@ This is my solution for the [Frontend Mentor](https://www.frontendmentor.io) cha
 
 
 ## Tools used
--Semantic HTML
--CSS 
-  --Flexbox
-  --SaSS
+- Semantic HTML
+- CSS 
+  - Flexbox
+  - SaSS
 
 
 ## Live website
