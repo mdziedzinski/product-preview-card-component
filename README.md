@@ -1,6 +1,6 @@
 # Frontend Mentor - Product preview card component
 
-![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Product preview card component coding challenge](./design/mobile-preview.jpg)
 
 ## Welcome! 👋
 
@@ -17,7 +17,7 @@ This is my solution for the [Frontend Mentor](https://www.frontendmentor.io) cha
 
 ## Live website
 
-- [GitHub Pages](https://pages.github.com/)
+- [GitHub Pages](https://mdziedzinski.github.io/product-preview-card-component/)
 
 
 
